@@ -389,7 +389,7 @@ header .container .main-nav li .mega-menu .links li a i {
   .landing .container  .text h1 span {
     font-size: 25px;
     letter-spacing: -1px;
-      padding-left: 50px;
+    padding-left: 0px;
   }
 }
 
